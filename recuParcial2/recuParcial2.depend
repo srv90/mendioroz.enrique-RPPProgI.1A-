@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627303228 source:c:\users\quique\desktop\ejercicioscodeblocks\recuparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
